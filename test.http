@@ -1,0 +1,7 @@
+POST http://localhost:4004/odata/v4/email/sendEmail
+Content-Type: application/json
+
+{
+    "message"  : "Helloo",
+    "status" : 201
+}
